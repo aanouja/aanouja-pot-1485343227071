@@ -3,6 +3,7 @@ applications:
   memory: 256M
   instances: 1
   domain: mybluemix.net
+  manifest: sdk-for-nodejs
   name: aanouja-pot
   host: aanouja-pot
   disk_quota: 1024M
